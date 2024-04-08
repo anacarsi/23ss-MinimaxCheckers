@@ -50,11 +50,10 @@ pip install -e .
     author = {Ana Carsi},
     title = {SmartPlay: An AI Agent for Checker's Gameplay},
     month = mar,
-    year = 2022,
+    year = 2023,
     publisher = {GitHub},
     version = {0.1.0},
     url = {https://github.com/anacarsi/23ss-MinimaxCheckers}
 
-}
 }
 ```

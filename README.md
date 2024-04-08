@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/checkers_board.png" width="400" alt="Checkers Board" />
+<img src="./images/checkersboard.png" width="400" alt="Checkers Board" />
 
 </div>
 
